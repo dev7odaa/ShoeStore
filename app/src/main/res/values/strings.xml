@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Shoe Store</string>
+    <!-- Strings related to login -->
+    <string name="Email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="signUp">Sign Up</string>
+    <string name="welcome">"Welcome!"</string>
+    <string name="next">Next</string>
+    <string name="lets_go">Lest’s Go</string>
+    <string name="shoeName">Shoe Name</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="company">Company</string>
+    <string name="size">Size</string>
+    <string name="description">Description</string>
+    <string name="enter_all_fields">Enter All Fields</string>
+    <string name="logout">Logout</string>
+</resources>
